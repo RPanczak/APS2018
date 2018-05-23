@@ -2,7 +2,6 @@ Geographical and tabular data derived from Australian Bureau of Statistics.
 
 Region boundaries (2016) simplified with `rmapshaper` package (default settings) and saved to `rds` files. All files exclude 'Other Teritories':
 
-- `GCCSA_2016_AUST_clean.rds`	- boundaries of five cities
 - `SA4_2016_AUST_clean.rds`	- SA4 level boundaries
 - `STE_2016_AUST_clean.rds`	- state boundaries
 
